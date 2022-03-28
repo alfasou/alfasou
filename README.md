@@ -16,7 +16,7 @@
 ![Weirdo](https://img.shields.io/static/v1?label=&message=weirdo&color=eee&logo=Hoppscotch)
 ![Nerd](https://img.shields.io/static/v1?label=&message=nerd&color=f01a30&logo=DungeonsandDragons)
 ![Front](https://img.shields.io/static/v1?label=&message=front-end&color=pink&logo=sass)
-![Study](https://img.shields.io/static/v1?label=&message=estudando&color=yellow&logo=codecademy)
+![Study](https://img.shields.io/static/v1?label=&message=studying&color=yellow&logo=codecademy)
 ![Steam](https://img.shields.io/static/v1?label=&message=steam&color=orange&url=https://steamcommunity.com/id/alfasou/u&logo=steam)
 ![Twitter Follow](https://img.shields.io/twitter/follow/alfa_sou?style=social)
 
