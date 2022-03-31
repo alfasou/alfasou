@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://alfasou.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=alfasou&color=FE5196&url=https://alfasou.github.io&logo=adafruit">
+    <img src="https://mega.nz/file/H94hGKBA#UofSsbGcXrl7eKrvQBwi8-ic3g-TnhUHelgI93oIW78">
   </a> 
   <a href="https://www.linkedin.com/in/alfas" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=blue&url=https://www.linkedin.com/in/alfas&logo=linkedin">
