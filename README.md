@@ -1,7 +1,7 @@
 # Olá, tudo bem?
 
 <div align="center">
-  <img src="https://svgsilh.com/svg/1801287-e91e63.svg" alt="foto de mulher de óculos escuros com cabelo cacheado azul" width="300px" height="300px">
+  <img src="kitty.svg" alt="foto de mulher de óculos escuros com cabelo cacheado azul" width="300px" height="300px">
 </div>
 
 <br />
