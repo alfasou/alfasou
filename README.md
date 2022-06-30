@@ -7,11 +7,19 @@
 <br />
 
 <p align="center"> 
-  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 30 anos, <br /> moro em Campinas, tenho 😺 três gatas 😺 e falo muita bobagem no <i>Twitter</i>
+  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 30 anos, 
 <br /> 
-  Às vezes faço umas lives na <i>Twitch</i>, principalmente de jogos de namoro esquisitos e Don't Starve Together, mas ultimamente elas têm sido pouco frequente 
+  moro em Campinas, tenho 😺 três gatas 😺 e falo muita bobagem no <i>Twitter</i>
 <br /> 
-  Me formei em <b>Artes Visuais</b> na Unicamp, cursei <b>Webdesign</b> no SENAC <br />e estou fazendo pós-graduação em <b>UX Design</b><br /> Sou <i>RPGista</i>, fã de <i>Arquivo X</i> e de <i>Alfajor</i> da Turma da Mônica
+  Às vezes faço umas lives na <i>Twitch</i>, principalmente de jogos de namoro esquisitos e 
+<br />
+  Don't Starve Together, mas ultimamente elas têm sido pouco frequentes
+<br /> 
+  Me formei em <b>Artes Visuais</b> na Unicamp, cursei <b>Webdesign</b> no SENAC 
+<br />
+  e estou fazendo pós-graduação em <b>UX Design</b>
+<br /> 
+  Sou <i>RPGista</i>, fã de <i>Arquivo X</i> e de <i>Alfajor</i> da Turma da Mônica
 </p>
 
 <br />
