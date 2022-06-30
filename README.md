@@ -7,7 +7,7 @@
 <br />
 
 <p align="center"> 
-  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 30 anos, 
+  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 31 anos, 
 <br /> 
   moro em Campinas, tenho 😺 três gatas 😺 e falo muita bobagem no <i>Twitter</i>
 <br /> 
