@@ -1,4 +1,4 @@
-# Olá, tudo bem?
+# olá, tudo bem? 
 
 <div align="center">
   <img src="kitty.svg" alt="gatinho rosa" width="300px" height="300px">
@@ -7,19 +7,19 @@
 <br />
 
 <p align="center"> 
-  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 32 anos, 
+  eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 32 anos, 
 <br /> 
-  moro em Campinas, tenho 😺 três gatas 😺 e falo muita bobagem no <i>Twitter</i>
+  moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem no <i>twitter</i>
 <br /> 
-  Às vezes faço umas lives na <i>Twitch</i>, principalmente de jogos de namoro esquisitos e 
+  às vezes faço umas lives na <i>twitch</i>, principalmente de jogos de namoro esquisitos e 
 <br />
-  Don't Starve Together, mas ultimamente elas têm sido pouco frequentes
+  don't starve together, mas ultimamente elas têm sido pouco frequentes
 <br /> 
-  Me formei em <b>Artes Visuais</b> na Unicamp, cursei <b>Webdesign</b> no SENAC 
+  me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac
 <br />
-  e estou fazendo pós-graduação em <b>UX Design</b> na Anhembi Morumbi
+  e estou fazendo pós-graduação em <b>ux design</b> na anhembi morumbi
 <br /> 
-  Sou <i>RPGista</i>, fã de <i>Arquivo X</i> e de <i>Alfajor</i> da Turma da Mônica
+  sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
 </p>
 
 <br />
