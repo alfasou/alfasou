@@ -7,7 +7,7 @@
 <br />
 
 <p align="center"> 
-  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 31 anos, 
+  Eu sou a Andressa, mais conhecida como <b>Alfa</b>, tenho 32 anos, 
 <br /> 
   moro em Campinas, tenho 😺 três gatas 😺 e falo muita bobagem no <i>Twitter</i>
 <br /> 
@@ -17,7 +17,7 @@
 <br /> 
   Me formei em <b>Artes Visuais</b> na Unicamp, cursei <b>Webdesign</b> no SENAC 
 <br />
-  e estou fazendo pós-graduação em <b>UX Design</b>
+  e estou fazendo pós-graduação em <b>UX Design</b> na Anhembi Morumbi
 <br /> 
   Sou <i>RPGista</i>, fã de <i>Arquivo X</i> e de <i>Alfajor</i> da Turma da Mônica
 </p>
@@ -49,6 +49,12 @@
   </a> 
   <a href="https://www.twitter.com/alfa_sou" target="_blank">
     <img src="https://img.shields.io/twitter/follow/alfa_sou?style=social">
+  </a>
+  <a href="https://instrag.am/alfa.sou" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=instagram&color=red&url=https://instrag.am/alfa.sou&logo=instagram">
+  </a>
+  <a href="https://alfasou.tumblr.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=tumblr&color=blue&url=https://alfasou.tumblr.com&logo=tumblr">
   </a>
 </div>
 
