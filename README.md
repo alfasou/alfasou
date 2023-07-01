@@ -51,10 +51,10 @@
     <img src="https://img.shields.io/twitter/follow/alfa_sou?style=social">
   </a>
   <a href="https://instrag.am/alfa.sou" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=instagram&color=red&url=https://instrag.am/alfa.sou&logo=instagram">
+    <img src="https://img.shields.io/static/v1?label=&message=instagram&color=purple&url=https://instrag.am/alfa.sou&logo=instagram">
   </a>
   <a href="https://alfasou.tumblr.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=tumblr&color=blue&url=https://alfasou.tumblr.com&logo=tumblr">
+    <img src="https://img.shields.io/static/v1?label=&message=tumblr&color=dark-blue&url=https://alfasou.tumblr.com&logo=tumblr">
   </a>
 </div>
 
