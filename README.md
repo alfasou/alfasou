@@ -9,15 +9,19 @@
 <p align="center"> 
   eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 32 anos, 
 <br /> 
-  moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem no <i>twitter</i>
+  moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem
 <br /> 
-  às vezes faço umas lives na <i>twitch</i>, principalmente de jogos de namoro esquisitos e 
+  amo jogar videogame, principalmente jogos de namoro esquisitos, 
 <br />
-  don't starve together, mas ultimamente elas têm sido pouco frequentes
+  puzzles e don't starve together, mas ultimamente tenho jogado mais
+<br />
+  animal crossing: new horizons no meu nintendo switch
 <br /> 
   me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac
 <br />
-  e estou fazendo pós-graduação em <b>ux design</b> na anhembi morumbi
+  fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
+<br />
+  atualmente estudo <b>engenharia de software</b> na anhanguera
 <br /> 
   sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
 </p>
