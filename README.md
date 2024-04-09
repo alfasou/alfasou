@@ -9,19 +9,19 @@
 <p align="center"> 
   eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 32 anos, 
 <br /> 
-  moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem
+  moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
 <br /> 
   amo jogar videogame, principalmente jogos de namoro esquisitos, 
 <br />
   puzzles e don't starve together, mas ultimamente tenho jogado mais
 <br />
-  animal crossing: new horizons no meu nintendo switch
+  animal crossing: new horizons no meu nintendo switch.
 <br /> 
   me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac
 <br />
   fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
 <br />
-  atualmente estudo <b>engenharia de software</b> na anhanguera
+  atualmente estudo <b>engenharia de software</b> na anhanguera.
 <br /> 
   sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
 </p>
@@ -43,17 +43,8 @@
   <a href="https://www.vegan.org" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=vegan&color=7fb700&logo=leaflet">
   </a> 
-  <a href="https://steamcommunity.com/id/alfasou" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=steam&color=002f64&url=https://steamcommunity.com/id/alfasou/u&logo=steam">
-  </a> 
   <img src="https://img.shields.io/static/v1?label=&message=front-end&color=e2006d&logo=sass"> 
-    <img src="https://img.shields.io/static/v1?label=&message=weirdo&color=002b18&logo=Hoppscotch"> 
-  <a href="https://alfasou.tumblr.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=tumblr&color=0b5394&url=https://alfasou.tumblr.com&logo=tumblr">
-  </a>
-  <a href="https://www.twitter.com/alfa_sou" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/alfa_sou?style=social">
-  </a>
+  <img src="https://img.shields.io/static/v1?label=&message=weirdo&color=002b18&logo=Hoppscotch"> 
 </div>
 
 <br />
