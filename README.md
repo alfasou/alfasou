@@ -30,19 +30,11 @@
 <hr />
 
 <div align="center">
-  <a href="https://www.behance.net/alfasou" target="blank">
-    <img src="https://img.shields.io/static/v1?label=&message=behance&color=grey&url=https://www.behance.net/alfasou&logo=behance">
-  </a>
-  <a href="https://www.linkedin.com/in/alfas" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=blue&url=https://www.linkedin.com/in/alfas&logo=linkedin">
-  </a> 
-  <a href="https://www.codecademy.com" target="blank">
-    <img src="https://img.shields.io/static/v1?label=&message=learning&color=134f5c&logo=codecademy">
-  </a>
+  <a href="https://www.behance.net/alfasou" target="blank"><img src="https://img.shields.io/static/v1?label=&message=behance&color=grey&url=https://www.behance.net/alfasou&logo=behance"></a>
+  <a href="https://www.linkedin.com/in/alfas" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=linkedin&color=blue&url=https://www.linkedin.com/in/alfas&logo=linkedin"></a> 
+  <a href="https://www.codecademy.com" target="blank"><img src="https://img.shields.io/static/v1?label=&message=learning&color=134f5c&logo=codecademy"></a>
   <img src="https://img.shields.io/static/v1?label=&message=nerd&color=cc0000&logo=DungeonsandDragons"> 
-  <a href="https://www.vegan.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=vegan&color=7fb700&logo=leaflet">
-  </a> 
+  <a href="https://www.vegan.org" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=vegan&color=7fb700&logo=leaflet"></a> 
   <img src="https://img.shields.io/static/v1?label=&message=front-end&color=e2006d&logo=sass"> 
   <img src="https://img.shields.io/static/v1?label=&message=weirdo&color=002b18&logo=Hoppscotch"> 
 </div>
