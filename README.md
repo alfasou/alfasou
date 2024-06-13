@@ -7,25 +7,26 @@
 <br />
 
 <p align="center"> 
-  eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 33 anos, 
-<br /> 
-  moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
-<br /> 
-  amo jogar videogame, principalmente jogos de namoro esquisitos, 
-<br />
-  puzzles, don't starve together e stardew valley, mas ultimamente tenho jogado mais
-<br />
-  animal crossing: new horizons no meu nintendo switch.
-<br /> 
-  me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac
-<br />
-  fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
-<br />
-  atualmente estudo <b>python</b> no senai e <b>node.js</b> na alura.
-<br /> 
-  sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
+    eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 33 anos, 
+  <br /> 
+    moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
+  <br /> 
+    amo jogar videogame, principalmente jogos de namoro esquisitos, 
+  <br />
+    puzzles, don't starve together e stardew valley, mas ultimamente tenho jogado mais
+  <br />
+    animal crossing: new horizons no meu nintendo switch.
+  <br /> 
+    me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac
+  <br />
+    fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
+  <br />
+    atualmente estudo <b>python</b> no senai e <b>node.js</b> na alura.
+  <br /> 
+    sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
 </p>
 
+<br />
 <br />
 
 <div align="center">
@@ -42,11 +43,19 @@
   <img src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=fff"> 
 
   <br />
-  <br />
   <hr />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=radical&langs_count=8#gh-dark-mode-only" width="500px" height="300px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=buefy&langs_count=8#gh-light-mode-only" width="500px" height="300px">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=radical&langs_count=8" width="500px" height="300px"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=buefy&langs_count=8" width="500px" height="300px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=buefy&langs_count=8" width="500px" height="300px" />
+  </picture>
 
 </div>
 <br />
