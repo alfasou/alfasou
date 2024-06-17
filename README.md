@@ -17,7 +17,7 @@
   <br />
     animal crossing: new horizons no meu nintendo switch.
   <br /> 
-    me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac
+    me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac,
   <br />
     fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
   <br />
@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://www.behance.net/alfasou" target="blank"><img src="https://img.shields.io/badge/behance-1769FF?logo=behance"></a>
-  <a href="http://steamcommunity.com/profiles/alfafsz" target="blank"><img src="https://img.shields.io/badge/steam-000?logo=steam"></a>
+  <a href="https://steamcommunity.com/id/alfafsz" target="blank"><img src="https://img.shields.io/badge/steam-000?logo=steam"></a>
   <img src="https://img.shields.io/badge/switch-E60012?logo=nintendoswitch">
   <a href="https://discord.com/users/alfafsz" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=fff"></a>
   <img src="https://img.shields.io/badge/rpg-orange?logo=dungeonsanddragons">
