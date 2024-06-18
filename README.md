@@ -1,4 +1,4 @@
-# olá, tudo bem? 👋
+# olá, tudo bem? :vulcan_salute:
 
 <div align="center">
   <img src="kitty.svg" alt="gatinho rosa" width="300px" height="300px">
