@@ -36,15 +36,16 @@
   <a href="https://www.last.fm/pt/user/alfasou" target="blank"><img src="https://img.shields.io/badge/lastfm-D51007?logo=lastdotfm" alt="badge com link para o last.fm" title="music lover"></a>
   <a href="https://steamcommunity.com/id/alfafsz" target="blank"><img src="https://img.shields.io/badge/steam-000?logo=steam" alt="badge com link para o steam" title="chronic gamer"></a>
   <a href="https://discord.com/users/alfafsz" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=fff" alt="badge com link para o discord" title="let's chat"></a>
+  <img src="https://img.shields.io/badge/battledotnet-4381C3?logo=battledotnet&logoColor=fff" alt="badge com o logo da battle.net" title="tag: alfasou#1982">
+    <img src="https://img.shields.io/badge/rpg-orange?logo=dungeonsanddragons" alt="badge com o logo de dungeons e dragons" title="multiclass multirace player">
+  <img src="https://img.shields.io/badge/switch-E60012?logo=nintendoswitch" alt="badge com o logo do nintendo switch" title="code: SW-8485-2925-3593">
+  <br />
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=fff" alt="badge com o logo da linguagem javascript" title="death by javascript">
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff" alt="badge com o logo da linguagem python" title="python learner">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="badge com o logo do framework bootstrap" title="bootstrap is life"> 
   <img src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=fff" alt="badge com o logo da linguagem sass" title="sass(y) girl">
   <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=fff" alt="badge com o logo da linguagem php" title="php killed my dog">
   <img src="https://img.shields.io/badge/nodedotjs-5FA04E?logo=nodedotjs&logoColor=fff" alt="badge com o logo da linguagem node.js" title="node.js learner"> 
-  <img src="https://img.shields.io/badge/rpg-orange?logo=dungeonsanddragons" alt="badge com o logo de dungeons e dragons" title="multiclass multirace player">
-  <img src="https://img.shields.io/badge/switch-E60012?logo=nintendoswitch" alt="badge com o logo do nintendo switch" title="code: SW-8485-2925-3593">
-  <img src="https://img.shields.io/badge/battledotnet-4381C3?logo=battledotnet&logoColor=fff" alt="badge com o logo da battle.net" title="tag: alfasou#1982">
 
   <br />
   <hr />
