@@ -36,13 +36,6 @@
   <img src="https://img.shields.io/badge/battle.net-4381c3?logo=battledotnet&logoColor=fff" alt="badge com o logo da battle.net" title="tag: alfasou#1982">
   <img src="https://img.shields.io/badge/switch-e60012?logo=nintendoswitch" alt="badge com o logo do nintendo switch" title="code: SW-8485-2925-3593">
   <br />
-  <img src="https://img.shields.io/badge/adobe_xd-FF61F6?logo=adobexd&logoColor=fff" alt="badge com o logo do adobe xd" title="adobe xd">
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?logo=adobeillustrator&logoColor=fff" alt="badge com o logo do adobe illustrator" title="adobe illustrator">
-  <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=fff" alt="badge com o logo do figma" title="figma">
-  <img src="https://img.shields.io/badge/font_awesome-538DD7?logo=fontawesome&logoColor=fff" alt="badge com o logo do font awesome" title="font awesome">
-  <img src="https://img.shields.io/badge/adobe_fonts-000B1D?logo=adobefonts&logoColor=fff" alt="badge com o logo do adobe fonts" title="adobe fonts">
-  <img src="https://img.shields.io/badge/google_fonts-4285F4?logo=googlefonts&logoColor=fff" alt="badge com o logo do google fonts" title="google fonts">
-  <br />
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff" alt="badge com o logo do git" title="git">
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff" alt="badge com o logo do github" title="github">
   <img src="https://img.shields.io/badge/vscode-007acc?logo=visualstudiocode&logoColor=fff" alt="badge com o logo do visual studio code" title="visual studio code">
@@ -50,7 +43,7 @@
   <img src="https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=fff" alt="badge com o logo do eslint" title="eslint">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="badge com o logo do npm" title="npm">
   <img src="https://img.shields.io/badge/laragon-0e83cd?logo=laragon&logoColor=fff" alt="badge com o logo do laragon" title="laragon">
-  <img src="https://img.shields.io/badge/vercel-000?logo=vercel&logoColor=fff" alt="badge com o logo do vercell" title="vercell">
+  <img src="https://img.shields.io/badge/vercel-000?logo=vercel&logoColor=fff" alt="badge com o logo do vercell" title="vercel">
   <br />
   <img src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=fff" alt="badge com o logo da linguagem html 5" title="html 5">
   <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=fff" alt="badge com o logo da linguagem css 3" title="css 3">
@@ -61,6 +54,15 @@
   <img src="https://img.shields.io/badge/php-777bb4?logo=php&logoColor=fff" alt="badge com o logo da linguagem php" title="php">
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=fff" alt="badge com o logo da linguagem javascript" title="javascript">
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff" alt="badge com o logo da linguagem typescript" title="typescript">
+  <br />
+  <img src="https://img.shields.io/badge/marvel-1FB6FF?logo=marvelapp&logoColor=fff" alt="badge com o logo do marvel app" title="marvel app">
+  <img src="https://img.shields.io/badge/adobe_xd-FF61F6?logo=adobexd&logoColor=fff" alt="badge com o logo do adobe xd" title="adobe xd">
+  <img src="https://img.shields.io/badge/illustrator-FF9A00?logo=adobeillustrator&logoColor=fff" alt="badge com o logo do adobe illustrator" title="adobe illustrator">
+  <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=fff" alt="badge com o logo do figma" title="figma">
+  <img src="https://img.shields.io/badge/font_awesome-538DD7?logo=fontawesome&logoColor=fff" alt="badge com o logo do font awesome" title="font awesome">
+  <img src="https://img.shields.io/badge/adobe_fonts-000B1D?logo=adobefonts&logoColor=fff" alt="badge com o logo do adobe fonts" title="adobe fonts">
+  <img src="https://img.shields.io/badge/google_fonts-4285F4?logo=googlefonts&logoColor=fff" alt="badge com o logo do google fonts" title="google fonts">
+  <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=fff" alt="badge com o logo do draw.io" title="draw.io">
 
   <br />
   <hr />
