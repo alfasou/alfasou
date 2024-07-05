@@ -3,7 +3,7 @@
 <br />
 
 <p align="center"> 
-  <img src="avatar_2.png" alt="avatar em estilo cartoon de uma moça branca com cabelo turquesa, de braços cruzados, camiseta preta e óculos" width="300px" height="300px">
+  <img src="avatar.png" alt="avatar em estilo cartoon de uma moça branca com cabelo turquesa, de braços cruzados, camiseta preta e óculos" width="300px" height="300px">
   <br />
     eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 33 anos, 
   <br /> 
