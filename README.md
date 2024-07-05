@@ -49,15 +49,16 @@
   <img src="https://img.shields.io/badge/prettier-yellow?logo=prettier&logoColor=fff" alt="badge com o logo do prettier" title="prettier">
   <img src="https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=fff" alt="badge com o logo do eslint" title="eslint">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="badge com o logo do npm" title="npm">
-  <img src="https://img.shields.io/badge/laragon-0e83cd?logo=laragon&logoColor=fff" alt="badge com o logo do laragon" title="laragon ressurected my dog">
+  <img src="https://img.shields.io/badge/laragon-0e83cd?logo=laragon&logoColor=fff" alt="badge com o logo do laragon" title="laragon">
+  <img src="https://img.shields.io/badge/vercel-000?logo=vercel&logoColor=fff" alt="badge com o logo do vercell" title="vercell">
   <br />
   <img src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=fff" alt="badge com o logo da linguagem html 5" title="html 5">
   <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=fff" alt="badge com o logo da linguagem css 3" title="css 3">
-  <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="badge com o logo do framework bootstrap" title="bootstrap is life"> 
+  <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="badge com o logo do framework bootstrap" title="bootstrap"> 
   <img src="https://img.shields.io/badge/sass-cc6699?logo=sass&logoColor=fff" alt="badge com o logo da linguagem sass" title="sass(y) girl">
-  <img src="https://img.shields.io/badge/python-3776ab?logo=python&logoColor=fff" alt="badge com o logo da linguagem python" title="python learner">
-  <img src="https://img.shields.io/badge/node.js-5fa04e?logo=nodedotjs&logoColor=fff" alt="badge com o logo da linguagem node.js" title="node.js learner">
-  <img src="https://img.shields.io/badge/php-777bb4?logo=php&logoColor=fff" alt="badge com o logo da linguagem php" title="php killed my dog">
+  <img src="https://img.shields.io/badge/python-3776ab?logo=python&logoColor=fff" alt="badge com o logo da linguagem python" title="python">
+  <img src="https://img.shields.io/badge/node.js-5fa04e?logo=nodedotjs&logoColor=fff" alt="badge com o logo da linguagem node.js" title="node.js">
+  <img src="https://img.shields.io/badge/php-777bb4?logo=php&logoColor=fff" alt="badge com o logo da linguagem php" title="php">
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=fff" alt="badge com o logo da linguagem javascript" title="javascript">
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff" alt="badge com o logo da linguagem typescript" title="typescript">
 
