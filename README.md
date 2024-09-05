@@ -28,7 +28,7 @@
 <br />
 
 <div align="center">
-  <img src="profile.svg" alt="perfis pessoais e de jogo a seguir" width="26px" height="26px" title="personal sh*t"> <b>&nbsp;</b> 
+  <img src="profile.svg" alt="perfis pessoais e de jogo a seguir" width="24px" height="24px" title="personal sh*t"> <b>&nbsp;</b> 
   <a href="https://www.last.fm/pt/user/alfasou" target="blank"><img src="https://img.shields.io/badge/lastfm-d51007?logo=lastdotfm" alt="badge com link para o last.fm" title="music lover"></a>
   <a href="https://discord.com/users/alfafsz" target="_blank"><img src="https://img.shields.io/badge/discord-5865f2?logo=discord&logoColor=fff" alt="badge com link para o discord" title="let's chat"></a>
   <a href="https://steamcommunity.com/id/alfafsz" target="blank"><img src="https://img.shields.io/badge/steam-000?logo=steam" alt="badge com link para o steam" title="chronic gamer"></a>
