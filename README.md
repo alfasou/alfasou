@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=fff" alt="badge com o logo da linguagem javascript" title="javascript">
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff" alt="badge com o logo da linguagem typescript" title="typescript">
   <br />
-  <img src="uxui.svg" alt="ferramentas de layout que utilizo a seguir" width="16px" height="16px" title="UI/UX"> 
+  <img src="uiux.svg" alt="ferramentas de layout que utilizo a seguir" width="16px" height="16px" title="UI/UX"> 
   <img src="https://img.shields.io/badge/marvel-1FB6FF?logo=marvelapp&logoColor=fff" alt="badge com o logo do marvel app" title="marvel app">
   <img src="https://img.shields.io/badge/adobe_xd-FF61F6?logo=adobexd&logoColor=fff" alt="badge com o logo do adobe xd" title="adobe xd">
   <img src="https://img.shields.io/badge/illustrator-FF9A00?logo=adobeillustrator&logoColor=fff" alt="badge com o logo do adobe illustrator" title="adobe illustrator">
