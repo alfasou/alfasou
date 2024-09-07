@@ -73,14 +73,14 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=radical&langs_count=8" width="500px" height="300px"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=radical&langs_count=8" width="800px" height="300px"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=buefy&langs_count=8" width="500px" height="300px"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=buefy&langs_count=8" width="800px" height="300px"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=radical&langs_count=8" alt="gráfico donut mostrando as linguagens mais utilizadas por mim" width="500px" height="300px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfasou&layout=donut&theme=radical&langs_count=8" alt="gráfico donut mostrando as linguagens mais utilizadas por mim" width="800px" height="300px" />
   </picture>
 
 </div>
