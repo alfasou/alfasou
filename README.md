@@ -40,7 +40,7 @@
   <img src="toolkit.svg" alt="ferramentas que utilizo a seguir" width="24px" height="24px" title="toolkit"> <b>&nbsp;</b> <img src="arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>    
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff" alt="badge com o logo do git" title="git">
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff" alt="badge com o logo do github" title="github">
-  <img src="https://img.shields.io/badge/vscode-007acc?logo=visualstudiocode&logoColor=fff" alt="badge com o logo do visual studio code" title="visual studio code">
+  <img src="https://img.shields.io/badge/<>_vscode-007acc?logo=visualstudiocode&logoColor=fff" alt="badge com o logo do visual studio code" title="visual studio code">
   <img src="https://img.shields.io/badge/prettier-yellow?logo=prettier&logoColor=fff" alt="badge com o logo do prettier" title="prettier">
   <img src="https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=fff" alt="badge com o logo do eslint" title="eslint">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="badge com o logo do npm" title="npm">
