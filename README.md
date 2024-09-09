@@ -1,7 +1,10 @@
 <p align="right">
   <a href="README.md" target="blank">🇧🇷</a> <b>&nbsp;</b>
-  <a href="README.es.md" target="blank">🇨🇴</a> <b>&nbsp;</b>
-  <a href="README.en.md" target="blank">🏴󠁧󠁢󠁥󠁮󠁧󠁿</a>
+  <a href="README-es.md" target="blank">🇨🇴</a> <b>&nbsp;</b>
+  <a href="README-fr.md" target="blank">🇫🇷</a> <b>&nbsp;</b>
+  <a href="README-en.md" target="blank">🏴󠁧󠁢󠁥󠁮󠁧󠁿</a> <b>&nbsp;</b>
+  <a href="README-cy.md" target="blank">🏴󠁧󠁢󠁷󠁬󠁳󠁿󠁧󠁢󠁥</a> <b>&nbsp;</b>
+  <a href="README-rs.md" target="blank">🇷🇺</a>
 </p>
 
 # olá, tudo bem? :wave:
