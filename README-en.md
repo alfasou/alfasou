@@ -26,7 +26,7 @@
   <br /> 
     i graduated in <b>visual arts</b> at unicamp, took a <b>web design</b> course at senac,
   <br />
-    have a postgraduate degree in <b>ux design</b> at anhembi morumbi and 
+    have a postgraduate degree in <b>ux design</b> that i got at anhembi morumbi and 
   <br />
     i'm currently studying <b>python</b> at senai and <b>node.js</b> at alura.
   <br /> 
