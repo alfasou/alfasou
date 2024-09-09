@@ -33,7 +33,7 @@
   <a href="https://discord.com/users/alfafsz" target="_blank"><img src="https://img.shields.io/badge/discord-5865f2?logo=discord&logoColor=fff" alt="badge com link para o discord" title="let's chat"></a>
   <a href="https://steamcommunity.com/id/alfafsz" target="blank"><img src="https://img.shields.io/badge/steam-000?logo=steam" alt="badge com link para o steam" title="chronic gamer"></a>
   <img src="https://img.shields.io/badge/dnd-ff4d26?logo=dungeonsanddragons" alt="badge com o logo de dungeons e dragons" title="multiclass multirace player">
-  <img src="https://img.shields.io/badge/rpg-e10085?logo=roll16" alt="badge com o logo do rroll16" title="multisystem gm">
+  <img src="https://img.shields.io/badge/rpg-e10085?logo=roll20" alt="badge com o logo do rroll16" title="multisystem gm">
   <img src="https://img.shields.io/badge/battle.net-4381c3?logo=battledotnet&logoColor=fff" alt="badge com o logo da battle.net" title="tag: alfasou#1982">
   <img src="https://img.shields.io/badge/switch-e60012?logo=nintendoswitch" alt="badge com o logo do nintendo switch" title="code: SW-8485-2925-3593">
   <br />
