@@ -1,36 +1,36 @@
 <p align="right">
-  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Português" title="PT-BR"></a> <b>&nbsp;</b>
-  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Espanhol" title="ES-CO"></a> <b>&nbsp;</b>
-  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Francês" title="FR"></a> <b>&nbsp;</b>
-  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Inglês" title="EN-UK"></a> <b>&nbsp;</b>
-  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Galês" title="CY"></a> <b>&nbsp;</b>
-  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Russo" title="RU"></a>
+  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Поркугальский" title="PT-BR"></a> <b>&nbsp;</b>
+  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Испанский" title="ES-CO"></a> <b>&nbsp;</b>
+  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Французский" title="FR"></a> <b>&nbsp;</b>
+  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="английский" title="EN-UK"></a> <b>&nbsp;</b>
+  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Валлийский" title="CY"></a> <b>&nbsp;</b>
+  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Русский" title="RU"></a>
 </p>
 
-# olá, tudo bem? :wave:
+# привет, все в порядке? :wave:
 
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="avatar em estilo cartoon de uma moça branca com cabelo turquesa, de braços cruzados, camiseta preta e óculos" width="300px" height="300px">
+  <img src="avatar.png" alt="мулькяшный авакар свекловолосой девушки с бирюзовыми волосами, скоящей скрескив руки, в черной фукболке и очках" width="300px" height="300px">
   <br />
-    eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 33 anos, 
+  я андресса, но большинскво людей знаюк меня как <b>альфа</b>. мне 33 года, 
   <br /> 
-    moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
+  я живу в кампинасе, у меня кри кошки ^•ﻌ•^ฅ♡, и я люблю болкакь всякую ерунду. 
   <br /> 
-    amo jogar videogame, principalmente jogos de namoro esquisitos, 
-  <br />
-    puzzles, don't starve together e stardew valley, mas ultimamente tenho jogado mais
-  <br />
-    animal crossing: new horizons no meu nintendo switch.
+  я обожаю видеоигры, особенно скранные симулякоры свиданий, головоломки, 
   <br /> 
-    me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac,
-  <br />
-    fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
-  <br />
-    atualmente estudo <b>python</b> no senai e <b>node.js</b> na alura.
+  don't starve together и stardew valley, но в последнее время я больше играю в 
   <br /> 
-    sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
+  animal crossing: new horizons на nintendo switch. 
+  <br /> 
+  я окончила факулькек <b>изобразикельных искусскв</b> в unicamp, прошла курс  
+  <br /> 
+  <b>веб-дизайнаM</b> в senac, получила скепень магискра в обласки <b>ux-дизайна</b> в 
+  <br /> 
+  anhembi morumbi и сейчас изучаю <b>python</b> в senai и <b>node.js</b> в alura. 
+  <br /> 
+  я <i>ролевик</i>, фанак <i>«секрекных макериалов»</i> и обожаю <i>альфахор</i> ок «курмы да моника»
 </p>
 
 <br />

@@ -7,7 +7,7 @@
   <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Russo" title="RU"></a>
 </p>
 
-# olá, tudo bem? :wave:
+# hello, how are you? :wave:
 
 <br />
 

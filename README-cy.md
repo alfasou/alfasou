@@ -1,36 +1,36 @@
 <p align="right">
-  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Português" title="PT-BR"></a> <b>&nbsp;</b>
-  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Espanhol" title="ES-CO"></a> <b>&nbsp;</b>
-  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Francês" title="FR"></a> <b>&nbsp;</b>
-  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Inglês" title="EN-UK"></a> <b>&nbsp;</b>
-  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Galês" title="CY"></a> <b>&nbsp;</b>
-  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Russo" title="RU"></a>
+  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Portiwgaleg" title="PT-BR"></a> <b>&nbsp;</b>
+  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Sbaeneg" title="ES-CO"></a> <b>&nbsp;</b>
+  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Ffrangeg" title="FR"></a> <b>&nbsp;</b>
+  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Saesneg" title="EN-UK"></a> <b>&nbsp;</b>
+  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Cymraeg" title="CY"></a> <b>&nbsp;</b>
+  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Rwsieg" title="RU"></a>
 </p>
 
-# olá, tudo bem? :wave:
+# helo popeth yn iawn? :wave:
 
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="avatar em estilo cartoon de uma moça branca com cabelo turquesa, de braços cruzados, camiseta preta e óculos" width="300px" height="300px">
+  <img src="avatar.png" alt="avatar mewn arddull cartŵn o ferch wyn gyda gwallt turquoise, breichiau croesawedig, crys-t du a sbectol." width="300px" height="300px">
   <br />
-    eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 33 anos, 
+    rwyf yn andressa, ond mae'r rhan fwyaf o bobl yn fy adnabod fel <b>alfa</b>, rwyf yn 33 oed, 
   <br /> 
-    moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
+    rwyf yn byw yng nghanpinas, mae gennyf dair gath ^•ﻌ•^ฅ♡, ac rwyf yn siarad llawer o nonsens.
   <br /> 
-    amo jogar videogame, principalmente jogos de namoro esquisitos, 
+    Rwyf wrth fy modd yn chwarae gemau fideo, yn enwedig sims dyddio rhyfedd, posau, 
   <br />
-    puzzles, don't starve together e stardew valley, mas ultimamente tenho jogado mais
+    don't starve together, a stardew valley, ond yn ddiweddar rwyf wedi bod yn chwarae
   <br />
-    animal crossing: new horizons no meu nintendo switch.
+    animal crossing: new horizons ar nintendo switch yn fwy na'r eraill.
   <br /> 
-    me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac,
+    graddwyd i mi mewn <b>celfyddydau gweledol</b> yn unicamp, cymerais gwrs <b>dylunio gwe</b>
   <br />
-    fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
+    yn senac, mae gennyf radd ôg yn <b>dylunio ux</b> yn  anhembi morumbi ac ar
   <br />
-    atualmente estudo <b>python</b> no senai e <b>node.js</b> na alura.
+    hyn o bryd rwyf yn astudio <b>python</b> yn senai a <b>node.js</b> yn alura.
   <br /> 
-    sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
+    rwyf yn chwaraewr <i>rpg</i>, yn fan o <i>the x-files</i> ac yn fan o <i>alfajor</i> turma da mônica
 </p>
 
 <br />

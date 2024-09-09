@@ -1,36 +1,36 @@
 <p align="right">
-  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Português" title="PT-BR"></a> <b>&nbsp;</b>
-  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Espanhol" title="ES-CO"></a> <b>&nbsp;</b>
-  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Francês" title="FR"></a> <b>&nbsp;</b>
-  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Inglês" title="EN-UK"></a> <b>&nbsp;</b>
-  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Galês" title="CY"></a> <b>&nbsp;</b>
-  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Russo" title="RU"></a>
+  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Portugais" title="PT-BR"></a> <b>&nbsp;</b>
+  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Espagnol" title="ES-CO"></a> <b>&nbsp;</b>
+  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Français" title="FR"></a> <b>&nbsp;</b>
+  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Anglais" title="EN-UK"></a> <b>&nbsp;</b>
+  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Gallois" title="CY"></a> <b>&nbsp;</b>
+  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Russe" title="RU"></a>
 </p>
 
-# olá, tudo bem? :wave:
+# salut comment allez-vous? :wave:
 
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="avatar em estilo cartoon de uma moça branca com cabelo turquesa, de braços cruzados, camiseta preta e óculos" width="300px" height="300px">
+  <img src="avatar.png" alt="avatar dessin animé d'une fille blonde aux cheveux turquoise, bras croisés, en t-shirt noir et lunettes." width="300px" height="300px">
   <br />
-    eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 33 anos, 
+    je m'appelle andressa, mais tout le monde m'appelle <b>alfa</b>, j'ai 33 ans, je vis a campinas
   <br /> 
-    moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
+    je suis la maman de trois chattes adorables ^•ﻌ•^ฅ♡ et je dis beaucoup de bêtises.
   <br /> 
-    amo jogar videogame, principalmente jogos de namoro esquisitos, 
+    j'adore jouer aux jeux vidéo, surtout les jeux de romance un peu bizarres, les
   <br />
-    puzzles, don't starve together e stardew valley, mas ultimamente tenho jogado mais
+    puzzles, don't starve together et stardew valley, mais en ce moment je suis plus
   <br />
-    animal crossing: new horizons no meu nintendo switch.
+    accro à animal crossing: new horizons sur ma nintendo switch.
   <br /> 
-    me formei em <b>artes visuais</b> na unicamp, cursei <b>webdesign</b> no senac,
+    j'ai un diplôme en <b>arts visuels</b> de l'unicamp, j'ai suivi une formation en
   <br />
-    fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
+     <b>webdesign</b> au senac, j'ai fait un master en <b>ux design</b> à l'anhembi morumbi 
   <br />
-    atualmente estudo <b>python</b> no senai e <b>node.js</b> na alura.
+    et actuellement j'apprends <b>python</b> au senai et <b>node.js</b> sur alura.
   <br /> 
-    sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
+    je suis une joueuse de <i>rôle</i>, fan des <i>x-files</i> et des <i>alfajores</i> de la turma da mônica
 </p>
 
 <br />
