@@ -24,7 +24,7 @@
   <br />
     animal crossing: new horizons on nintendo switch more than the others.
   <br /> 
-    i graduated <b>visual arts</b> at unicamp, took a  <b>web design</b> course at senac,
+    i graduated in <b>visual arts</b> at unicamp, took a <b>web design</b> course at senac,
   <br />
     have a postgraduate degree in <b>ux design</b> at anhembi morumbi and 
   <br />
