@@ -71,9 +71,10 @@
   <img src="https://img.shields.io/badge/marvel-1FB6FF?logo=marvelapp&logoColor=fff" alt="marvel app" title="marvel app">
   <img src="https://img.shields.io/badge/adobe_xd-FF61F6?logo=adobexd&logoColor=fff" alt="adobe xd" title="adobe xd">
   <img src="https://img.shields.io/badge/illustrator-FF9A00?logo=adobeillustrator&logoColor=fff" alt="adobe illustrator" title="adobe illustrator">
-  <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=fff" alt="figma" title="figma">
   <img src="https://img.shields.io/badge/font_awesome-538DD7?logo=fontawesome&logoColor=fff" alt="font awesome" title="font awesome">
+  <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=fff" alt="figma" title="figma">
   <img src="https://img.shields.io/badge/adobe_fonts-000B1D?logo=adobefonts&logoColor=fff" alt="adobe fonts" title="adobe fonts">
+  <img src="https://img.shields.io/badge/invision-FF3366?logo=invision&logoColor=fff" alt="invision" title="invision">
   <img src="https://img.shields.io/badge/google_fonts-4285F4?logo=googlefonts&logoColor=fff" alt="google fonts" title="google fonts">
   <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=fff" alt="draw.io" title="draw.io">
 
