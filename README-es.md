@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/battle.net-4381c3?logo=battledotnet&logoColor=fff" alt="battle.net" title="tag: alfasou#1982">
   <img src="https://img.shields.io/badge/switch-e60012?logo=nintendoswitch" alt="nintendo switch" title="code: SW-8485-2925-3593">
   <br />
-  <img src="icons/toolkit.svg" alt="ferramentas que utilizo a seguir" width="24px" height="24px" title="toolkit"> <b>&nbsp;</b> <img src="icons/arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>    
+  <img src="icons/toolkit.svg" alt="toolkit" width="24px" height="24px" title="toolkit"> <b>&nbsp;</b> <img src="icons/arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>    
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff" alt="git" title="git">
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff" alt="github" title="github">
   <img src="https://img.shields.io/badge/<>_vscode-007acc?logo=visualstudiocode&logoColor=fff" alt="visual studio code" title="visual studio code">
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/laragon-0e83cd?logo=laragon&logoColor=fff" alt="laragon" title="laragon">
   <img src="https://img.shields.io/badge/vercel-000?logo=vercel&logoColor=fff" alt="vercell" title="vercel">
   <br />
-  <img src="icons/code.svg" alt="linguagens que utilizo a seguir" width="24px" height="24px" title="coding"> <b>&nbsp;</b> <img src="icons/arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>    
+  <img src="icons/code.svg" alt="languages" width="24px" height="24px" title="coding"> <b>&nbsp;</b> <img src="icons/arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>    
   <img src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=fff" alt="linguagem html 5" title="html 5">
   <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=fff" alt="linguagem css 3" title="css 3">
   <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="framework bootstrap" title="bootstrap"> 
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=fff" alt="linguagem javascript" title="javascript">
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff" alt="linguagem typescript" title="typescript">
   <br />
-  <img src="icons/uiux.svg" alt="ferramentas de layout que utilizo a seguir" width="24px" height="24px" title="ui/ux"> <b>&nbsp;</b> <img src="icons/arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>
+  <img src="icons/uiux.svg" alt="layout toolkit" width="24px" height="24px" title="ui/ux"> <b>&nbsp;</b> <img src="icons/arrow.svg" width="16px" height="16px" ria-hidden="true"> <b>&nbsp;</b>   
   <img src="https://img.shields.io/badge/marvel-1FB6FF?logo=marvelapp&logoColor=fff" alt="marvel app" title="marvel app">
   <img src="https://img.shields.io/badge/adobe_xd-FF61F6?logo=adobexd&logoColor=fff" alt="adobe xd" title="adobe xd">
   <img src="https://img.shields.io/badge/illustrator-FF9A00?logo=adobeillustrator&logoColor=fff" alt="adobe illustrator" title="adobe illustrator">
@@ -77,6 +77,7 @@
   <img src="https://img.shields.io/badge/invision-FF3366?logo=invision&logoColor=fff" alt="invision" title="invision">
   <img src="https://img.shields.io/badge/google_fonts-4285F4?logo=googlefonts&logoColor=fff" alt="google fonts" title="google fonts">
   <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=fff" alt="draw.io" title="draw.io">
+
 
   <br />
   <hr />
