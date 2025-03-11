@@ -28,7 +28,7 @@
   <br />
     fiz pós-graduação em <b>ux design</b> na anhembi morumbi e 
   <br />
-    atualmente estudo <b>python</b> no senai e <b>node.js</b> na alura.
+    também estudei <b>python</b> no senai e <b>node.js</b> na alura.
   <br /> 
     sou <i>rpgista</i>, fã de <i>arquivo x</i> e de <i>alfajor</i> da turma da mônica
 </p>
