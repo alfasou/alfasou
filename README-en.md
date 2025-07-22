@@ -14,7 +14,7 @@
 <p align="center"> 
   <img src="avatar.png" alt="a cartoon avatar of a fair-skinned girl with bright turquoise hair, crossed arms, a black tee, and spectacles." width="300px" height="300px">
   <br />
-    i'm andressa, but most people know me as <b>alfa</b>, i'm 33yo, 
+    i'm andressa, but most people know me as <b>alfa</b>, i'm 34yo, 
   <br /> 
     i live in campinas, i have three cats ^•ﻌ•^ฅ♡, and talk a lot of nonsense.
   <br /> 
