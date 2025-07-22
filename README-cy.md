@@ -14,7 +14,7 @@
 <p align="center"> 
   <img src="avatar.png" alt="avatar mewn arddull cartŵn o ferch wyn gyda gwallt turquoise, breichiau croesawedig, crys-t du a sbectol." width="300px" height="300px">
   <br />
-    rwyf yn andressa, ond mae'r rhan fwyaf o bobl yn fy adnabod fel <b>alfa</b>, rwyf yn 33 oed, 
+    rwyf yn andressa, ond mae'r rhan fwyaf o bobl yn fy adnabod fel <b>alfa</b>, rwyf yn 34 oed, 
   <br /> 
     rwyf yn byw yng nghanpinas, mae gennyf dair gath ^•ﻌ•^ฅ♡, ac rwyf yn siarad llawer o nonsens.
   <br /> 
