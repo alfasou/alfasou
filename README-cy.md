@@ -12,11 +12,11 @@
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="avatar mewn arddull cartŵn o ferch wyn gyda gwallt turquoise, breichiau croesawedig, crys-t du a sbectol." width="300px" height="300px">
+  <img src="avatar.png" alt="afatar arddull cartŵn o ferch â chroen teg gyda gwallt brown, crys-t du gyda darlun o gath fach wen, a sbectol" width="300px" height="300px">
   <br />
     rwyf yn andressa, ond mae'r rhan fwyaf o bobl yn fy adnabod fel <b>alfa</b>, rwyf yn 34 oed, 
   <br /> 
-    rwyf yn byw yng nghanpinas, mae gennyf dair gath ^•ﻌ•^ฅ♡, ac rwyf yn siarad llawer o nonsens.
+    rwyf yn byw yng nghanpinas, mae gennyf dair gath ^•ﻌ•^ฅ♡ ac rwyf yn siarad llawer o nonsens.
   <br /> 
     Rwyf wrth fy modd yn chwarae gemau fideo, yn enwedig sims dyddio rhyfedd, posau, 
   <br />

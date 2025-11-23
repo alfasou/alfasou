@@ -12,11 +12,11 @@
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="a cartoon avatar of a fair-skinned girl with bright turquoise hair, crossed arms, a black tee, and spectacles." width="300px" height="300px">
+  <img src="avatar.png" alt="cartoon style avatar of a fair-skinned girl with brown hair, black tee with a white kitten drawing, and spectacles" width="300px" height="300px">
   <br />
     i'm andressa, but most people know me as <b>alfa</b>, i'm 34yo, 
   <br /> 
-    i live in campinas, i have three cats ^•ﻌ•^ฅ♡, and talk a lot of nonsense.
+    i live in campinas, i have three cats ^•ﻌ•^ฅ♡ and talk a lot of nonsense.
   <br /> 
     i love playing video games, especially weird dating sims, 
   <br />
@@ -77,7 +77,6 @@
   <img src="https://img.shields.io/badge/invision-FF3366?logo=invision&logoColor=fff" alt="invision" title="invision">
   <img src="https://img.shields.io/badge/google_fonts-4285F4?logo=googlefonts&logoColor=fff" alt="google fonts" title="google fonts">
   <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=fff" alt="draw.io" title="draw.io">
-
 
   <br />
   <hr />

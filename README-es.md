@@ -12,7 +12,7 @@
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="avatar en estilo cartoon de una chica rubia con pelo turquesa, brazos cruzados, camiseta negra y gafas." width="300px" height="300px">
+  <img src="avatar.png" alt="avatar en estilo cartoon de una chica blanca con pelo castaño, camiseta negra con un dibujo de un gatito blanco y gafas." width="300px" height="300px">
   <br />
     soy andressa, pero todos me conocen como <b>alfa</b>, tengo 34 años, vivo en campinas
   <br /> 
@@ -77,7 +77,6 @@
   <img src="https://img.shields.io/badge/invision-FF3366?logo=invision&logoColor=fff" alt="invision" title="invision">
   <img src="https://img.shields.io/badge/google_fonts-4285F4?logo=googlefonts&logoColor=fff" alt="google fonts" title="google fonts">
   <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=fff" alt="draw.io" title="draw.io">
-
 
   <br />
   <hr />
