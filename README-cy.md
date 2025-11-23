@@ -43,7 +43,7 @@
 <a href="https://www.last.fm/pt/user/alfasou" target="blank"><img src="https://img.shields.io/badge/lastfm-d51007?logo=lastdotfm" alt="last.fm" title="music lover"></a>
 <a href="https://discord.com/users/alfafsz" target="_blank"><img src="https://img.shields.io/badge/discord-5865f2?logo=discord&logoColor=fff" alt="discord" title="let's chat"></a>
 <a href="https://steamcommunity.com/id/alfafsz" target="blank"><img src="https://img.shields.io/badge/steam-000?logo=steam" alt="steam" title="chronic gamer"></a>
-<img src="https://img.shields.io/badge/dnd-ff4d26?logo=dungeonsanddragons" alt="dungeons e dragons" title="multiclass multirace player">
+<img src="https://img.shields.io/badge/dnd-ff4d26?logo=dungeonsanddragons" alt="dungeons & dragons" title="multiclass multirace player">
 <img src="https://img.shields.io/badge/rpg-e10085?logo=roll20" alt="roll20" title="multisystem gm">
 <img src="https://img.shields.io/badge/battle.net-4381c3?logo=battledotnet&logoColor=fff" alt="battle.net" title="tag: alfasou#1982">
 <img src="https://img.shields.io/badge/switch-e60012?logo=nintendoswitch" alt="nintendo switch" title="code: SW-8485-2925-3593">
@@ -64,7 +64,7 @@
 #### 🤖 Ieithoedd
 
   <img src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=fff" alt="html 5" title="html 5">
-  <img src="https://img.shields.io/badge/css-1572B6?logo=css&logoColor=fff" alt="css" title="css 3">
+  <img src="https://img.shields.io/badge/css-663399?logo=css&logoColor=fff" alt="css" title="css 3">
   <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="bootstrap" title="bootstrap"> 
   <img src="https://img.shields.io/badge/sass-cc6699?logo=sass&logoColor=fff" alt="sass" title="sass(y) girl">
   <img src="https://img.shields.io/badge/python-3776ab?logo=python&logoColor=fff" alt="python" title="python">
