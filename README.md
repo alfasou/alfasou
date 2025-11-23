@@ -65,13 +65,13 @@
 
   <img src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=fff" alt="html 5" title="html 5">
   <img src="https://img.shields.io/badge/css-663399?logo=css&logoColor=fff" alt="css" title="css 3">
-  <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="bootstrap" title="bootstrap"> 
   <img src="https://img.shields.io/badge/sass-cc6699?logo=sass&logoColor=fff" alt="sass" title="sass(y) girl">
   <img src="https://img.shields.io/badge/python-3776ab?logo=python&logoColor=fff" alt="python" title="python">
   <img src="https://img.shields.io/badge/node.js-5fa04e?logo=nodedotjs&logoColor=fff" alt="node.js" title="node.js">
   <img src="https://img.shields.io/badge/php-777bb4?logo=php&logoColor=fff" alt="php" title="php">
   <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=fff" alt="javascript" title="javascript">
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff" alt="typescript" title="typescript">
+  <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="bootstrap" title="bootstrap"> 
   <br />
 
 #### 🎨 Ferramentas de UI/UX
