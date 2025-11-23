@@ -53,7 +53,7 @@
 
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff" alt="git" title="git">
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff" alt="github" title="github">
-  <img src="https://img.shields.io/badge/<>_vscode-007acc?logo=visualstudiocode&logoColor=fff" alt="visual studio code" title="visual studio code">
+  <img src="https://img.shields.io/badge/vscode-007acc?logo=visualstudiocode&logoColor=fff" alt="visual studio code" title="visual studio code">
   <img src="https://img.shields.io/badge/prettier-yellow?logo=prettier&logoColor=fff" alt="prettier" title="prettier">
   <img src="https://img.shields.io/badge/eslint-4B32C3?logo=eslint&logoColor=fff" alt="eslint" title="eslint">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm" title="npm">
