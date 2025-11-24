@@ -16,7 +16,7 @@
   <br />
     rwyf yn andressa, ond mae'r rhan fwyaf o bobl yn fy adnabod fel <b>alfa</b>, rwyf yn 34 oed, 
   <br /> 
-    rwyf yn byw yng nghanpinas, mae gennyf dair gath ^•ﻌ•^ฅ♡ ac rwyf yn siarad llawer o nonsens.
+    rwyf yn byw yng nghanpinas, mae gennyf dair gath ^•ﻌ•^ฅ♡, ac rwyf yn siarad llawer o nonsens.
   <br /> 
     Rwyf wrth fy modd yn chwarae gemau fideo, yn enwedig sims dyddio rhyfedd, posau, 
   <br />
@@ -26,9 +26,9 @@
   <br /> 
     graddwyd i mi mewn <b>celfyddydau gweledol</b> yn unicamp, cymerais gwrs <b>dylunio gwe</b>
   <br />
-    yn senac, mae gennyf radd ôg yn <b>dylunio ux</b> yn  anhembi morumbi ac ar
+    yn senac, mae gennyf radd ôg yn <b>dylunio ux</b> yn anhembi morumbi
   <br />
-    hyn o bryd rwyf yn astudio <b>python</b> yn senai a <b>node.js</b> yn alura.
+    a rydw i hefyd wedi astudio <b>python</b> yn senai a <b>node.js</b> yn alura.
   <br /> 
     rwyf yn chwaraewr <i>rpg</i>, yn fan o <i>the x-files</i> ac yn fan o <i>alfajor</i> turma da mônica
 </p>

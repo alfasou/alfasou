@@ -26,9 +26,9 @@
   <br /> 
     estudié <b>artes visuales</b> en la unicamp, hice un curso de <b>web design</b> en el senac,
   <br />
-    una maestria en <b>ux design</b> en la anhembi morumbi y ahora estoy
+    una maestria en <b>ux design</b> en la anhembi morumbi y también
   <br />
-    aprendiendo <b>python</b> en el senai y <b>node.js</b> en la alura.
+    he estudiado <b>python</b> en el senai y <b>node.js</b> en la alura.
   <br /> 
     soy <i>roleplayer</i>, fan de <i>expediente x</i> e adicta al <i>alfajor</i> de la turma da mônica
 </p>

@@ -28,7 +28,7 @@
   <br />
      <b>webdesign</b> au senac, j'ai fait un master en <b>ux design</b> à l'anhembi morumbi 
   <br />
-    et actuellement j'apprends <b>python</b> au senai et <b>node.js</b> sur alura.
+    et j'ai également étudié <b>python</b> au senai et <b>node.js</b> sur alura.
   <br /> 
     je suis une joueuse de <i>rôle</i>, fan des <i>x-files</i> et des <i>alfajores</i> de la turma da mônica
 </p>

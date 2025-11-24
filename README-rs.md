@@ -28,7 +28,7 @@
   <br /> 
   <b>веб-дизайна</b> в senac, получила скепень магискра в обласки <b>ux-дизайна</b> в 
   <br /> 
-  anhembi morumbi и сейчас изучаю <b>python</b> в senai и <b>node.js</b> в alura. 
+  anhembi morumbi и я также изучала <b>python</b> в senai и <b>node.js</b> в alura. 
   <br /> 
   я <i>ролевик</i>, фанак <i>«секрекных макериалов»</i> и обожаю <i>альфахор</i> ок «курмы да моника»
 </p>

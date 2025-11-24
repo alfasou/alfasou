@@ -16,7 +16,7 @@
   <br />
     i'm andressa, but most people know me as <b>alfa</b>, i'm 34yo, 
   <br /> 
-    i live in campinas, i have three cats ^•ﻌ•^ฅ♡ and talk a lot of nonsense.
+    i live in campinas, i have three cats ^•ﻌ•^ฅ♡, and talk a lot of nonsense.
   <br /> 
     i love playing video games, especially weird dating sims, 
   <br />
@@ -28,7 +28,7 @@
   <br />
     have a postgraduate degree in <b>ux design</b> that i got at anhembi morumbi and 
   <br />
-    i'm currently studying <b>python</b> at senai and <b>node.js</b> at alura.
+    i have also studied <b>python</b> at senai and <b>node.js</b> at alura.
   <br /> 
     i'm an <i>rpg</i> player, a fan of <i>the x-files</i> and of turma da mônica's <i>alfajor</i>
 </p>
