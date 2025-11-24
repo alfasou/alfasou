@@ -4,7 +4,8 @@
   <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Francés" title="FR"></a> <b>&nbsp;</b>
   <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Inglés" title="EN-UK"></a> <b>&nbsp;</b>
   <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Galés" title="CY"></a> <b>&nbsp;</b>
-  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Ruso" title="RU"></a>
+  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Ruso" title="RU"></a> <b>&nbsp;</b>
+  <a href="README-jp.md" target="blank"><img src="flags/jp.svg" width="24px" height="24px" alt="Japonés" title="JP"></a>
 </p>
 
 # ¿hola, cómo estás? :wave:

@@ -4,7 +4,8 @@
   <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Ffrangeg" title="FR"></a> <b>&nbsp;</b>
   <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Saesneg" title="EN-UK"></a> <b>&nbsp;</b>
   <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Cymraeg" title="CY"></a> <b>&nbsp;</b>
-  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Rwsieg" title="RU"></a>
+  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Rwsieg" title="RU"></a> <b>&nbsp;</b>
+  <a href="README-jp.md" target="blank"><img src="flags/jp.svg" width="24px" height="24px" alt="Japaneg" title="JP"></a>
 </p>
 
 # helo popeth yn iawn? :wave:

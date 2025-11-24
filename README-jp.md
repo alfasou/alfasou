@@ -1,37 +1,38 @@
 <p align="right">
-  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="Portugais" title="PT-BR"></a> <b>&nbsp;</b>
-  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="Espagnol" title="ES-CO"></a> <b>&nbsp;</b>
-  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="Français" title="FR"></a> <b>&nbsp;</b>
-  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="Anglais" title="EN-UK"></a> <b>&nbsp;</b>
-  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="Gallois" title="CY"></a> <b>&nbsp;</b>
-  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="Russe" title="RU"></a> <b>&nbsp;</b>
-  <a href="README-jp.md" target="blank"><img src="flags/jp.svg" width="24px" height="24px" alt="Japonais" title="JP"></a>
+  <a href="README.md" target="blank"><img src="flags/br.svg" width="24px" height="24px" alt="ポルトガル語" title="PT-BR"></a> <b>&nbsp;</b>
+  <a href="README-es.md" target="blank"><img src="flags/co.svg" width="24px" height="24px" alt="スペイン語" title="ES-CO"></a> <b>&nbsp;</b>
+  <a href="README-fr.md" target="blank"><img src="flags/fr.svg" width="24px" height="24px" alt="フランス語" title="FR"></a> <b>&nbsp;</b>
+  <a href="README-en.md" target="blank"><img src="flags/gb.svg" width="24px" height="24px" alt="英語" title="EN-UK"></a> <b>&nbsp;</b>
+  <a href="README-cy.md" target="blank"><img src="flags/cy.svg" width="24px" height="24px" alt="ウェールズ語" title="CY"></a> <b>&nbsp;</b>
+  <a href="README-rs.md" target="blank"><img src="flags/ru.svg" width="24px" height="24px" alt="ロシア語" title="RU"></a> <b>&nbsp;</b>
+  <a href="README-jp.md" target="blank"><img src="flags/jp.svg" width="24px" height="24px" alt="日本語" title="JP"></a>
 </p>
 
-# salut comment allez-vous? :wave:
+# はじめまして！ :wave:
 
 <br />
 
 <p align="center"> 
-  <img src="avatar.png" alt="avatar de style dessin animé d'une fille à la peau claire avec des cheveux bruns, un t-shirt noir avec un dessin de chaton blanc et des lunettes" width="300px" height="300px">
+  <img src="avatar.png" alt="茶髪で色白の女の子のアニメ風アバター。眼鏡をかけていて、白い子猫のイラストが入った黒いTシャツを着ている。" width="300px" height="300px">
+
   <br />
-    je m'appelle andressa, mais tout le monde m'appelle <b>alfa</b>, j'ai 34 ans, je vis a campinas
+  Andressaです。「Alfa」と呼ばれています。34歳です。 カンピーナスに住んでいて、 
   <br /> 
-    je suis la maman de trois chattes adorables ^•ﻌ•^ฅ♡ et je dis beaucoup de bêtises.
+猫を3匹飼っています ^•ﻌ•^ฅ♡。よくくだらないことを言います。  
   <br /> 
-    j'adore jouer aux jeux vidéo, surtout les jeux de romance un peu bizarres, les
-  <br />
-    puzzles, don't starve together et stardew valley, mais en ce moment je suis plus
-  <br />
-    accro à animal crossing: new horizons sur ma nintendo switch.
+  ゲームが大好きです。特に変な恋愛ゲーム、パズル、Don't Starve Together、 
   <br /> 
-    j'ai un diplôme en <b>arts visuels</b> de l'unicamp, j'ai suivi une formation en
-  <br />
-     <b>webdesign</b> au senac, j'ai fait un master en <b>ux design</b> à l'anhembi morumbi 
-  <br />
-    et j'ai également étudié <b>python</b> au senai et <b>node.js</b> sur alura.
+  Stardew Valleyが好きですが、最近はNintendo Switchで『あつまれ どうぶつの森』 
   <br /> 
-    je suis une joueuse de <i>rôle</i>, fan des <i>x-files</i> et des <i>alfajores</i> de la turma da mônica
+  ばかりプレイしています。 
+  <br /> 
+  Unicampで視覚芸術を学び、SenacでWebデザイン、  
+  <br /> 
+  Anhembi MorumbiでUXデザインの大学院コースを修了しました。 
+  <br /> 
+  また、SENAIでPython、AluraでNode.jsも勉強しました。 
+  <br /> 
+  TRPGと『X-ファイル』、そしてTurma da Mônicaのアルファホールが大好きです。
 </p>
 
 <br />
@@ -39,7 +40,7 @@
 
 <div align="center">
 
-#### 👤 Profils Personnels et de Jeux
+#### 👤 SNS・ゲームアカウント
 
 <a href="https://www.last.fm/pt/user/alfasou" target="blank"><img src="https://img.shields.io/badge/lastfm-d51007?logo=lastdotfm" alt="last.fm" title="music lover"></a>
 <a href="https://discord.com/users/alfafsz" target="_blank"><img src="https://img.shields.io/badge/discord-5865f2?logo=discord&logoColor=fff" alt="discord" title="let's chat"></a>
@@ -50,7 +51,7 @@
 <img src="https://img.shields.io/badge/switch-e60012?logo=nintendoswitch" alt="nintendo switch" title="code: SW-8485-2925-3593">
 <br />
 
-#### 🛠️ Outils
+#### 🛠️ ツール
 
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff" alt="git" title="git">
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff" alt="github" title="github">
@@ -62,7 +63,7 @@
   <img src="https://img.shields.io/badge/vercel-000?logo=vercel&logoColor=fff" alt="vercell" title="vercel">
   <br />
 
-#### 🤖 Langages
+#### 🤖 技術スタック
 
   <img src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=fff" alt="html 5" title="html 5">
   <img src="https://img.shields.io/badge/css-663399?logo=css&logoColor=fff" alt="css" title="css 3">
@@ -75,7 +76,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="bootstrap" title="bootstrap"> 
   <br />
 
-#### 🎨 Outils UI/UX
+#### 🎨 UI/UXツール
 
   <img src="https://img.shields.io/badge/marvel-1FB6FF?logo=marvelapp&logoColor=fff" alt="marvel app" title="marvel app">
   <img src="https://img.shields.io/badge/adobe_xd-FF61F6?logo=adobexd&logoColor=fff" alt="adobe xd" title="adobe xd">
