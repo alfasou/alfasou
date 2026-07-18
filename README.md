@@ -15,7 +15,7 @@
 <p align="center"> 
   <img src="avatar.png" alt="avatar em estilo cartoon de uma moça branca com cabelo castanho, camiseta preta com um desenho de gatinho branco e óculos" width="300px" height="300px">
   <br />
-    eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 34 anos, 
+    eu sou a andressa, mais conhecida como <b>alfa</b>, tenho 35 anos, 
   <br /> 
     moro em campinas, tenho três gatas ^•ﻌ•^ฅ♡ e falo muita bobagem.
   <br /> 
