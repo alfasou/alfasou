@@ -15,7 +15,7 @@
 <p align="center"> 
   <img src="avatar.png" alt="avatar en estilo cartoon de una chica blanca con pelo castaño, camiseta negra con un dibujo de un gatito blanco y gafas." width="300px" height="300px">
   <br />
-    soy andressa, pero todos me conocen como <b>alfa</b>, tengo 34 años, vivo en campinas
+    soy andressa, pero todos me conocen como <b>alfa</b>, tengo 35 años, vivo en campinas
   <br /> 
     soy mamá de tres gatitas preciosas ^•ﻌ•^ฅ♡ y hablo un montón de tonterías.
   <br /> 
