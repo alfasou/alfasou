@@ -15,7 +15,7 @@
 <p align="center"> 
   <img src="avatar.png" alt="avatar de style dessin animé d'une fille à la peau claire avec des cheveux bruns, un t-shirt noir avec un dessin de chaton blanc et des lunettes" width="300px" height="300px">
   <br />
-    je m'appelle andressa, mais tout le monde m'appelle <b>alfa</b>, j'ai 34 ans, je vis a campinas
+    je m'appelle andressa, mais tout le monde m'appelle <b>alfa</b>, j'ai 35 ans, je vis a campinas
   <br /> 
     je suis la maman de trois chattes adorables ^•ﻌ•^ฅ♡ et je dis beaucoup de bêtises.
   <br /> 
